@@ -1,0 +1,16 @@
+samples per project:
+project
+prj1    384
+prj3    272
+
+subjects by response:
+response
+no     325
+yes    331
+
+subjects by sex:
+sex
+F    312
+M    344
+
+avg b cell count, melanoma male responders, t=0: 10401.28
