@@ -98,7 +98,9 @@ directly.
 
 **Local:** `make dashboard` → http://localhost:8501
 
-**Deployed:** https://loblaw-bio-immune-analysis.streamlit.app *(update this URL after deploying via [Streamlit Community Cloud](https://share.streamlit.io) — point it at `dashboard/app.py` in this repo)*
+**GitHub repo:** https://github.com/jain-atishay/loblaw-bio-immune-analysis
+
+**Deploy online:** Sign in at [share.streamlit.io](https://share.streamlit.io), connect the repo above, and set the app path to `dashboard/app.py`. Update the README with your Streamlit URL once deployed.
 
 ## Key findings (for Yah)
 
