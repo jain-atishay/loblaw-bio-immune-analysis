@@ -92,15 +92,15 @@ Outputs: `outputs/baseline_subset.csv`, `outputs/baseline_summary.csv`
 
 ## Dashboard
 
-Three tabs mirroring Parts 2–4: frequency table, responder analysis
-with boxplots, and baseline breakdown. Reads from `cell_counts.db`
-directly.
+Interactive dashboard with three tabs mirroring Parts 2–4: frequency table,
+responder analysis with boxplots, and baseline breakdown. Reads from
+`cell_counts.db` directly.
+
+**Live dashboard:** https://loblaw-bio-immune-analysis-a4hmkqrzaiybe6vdonjwss.streamlit.app/
 
 **Local:** `make dashboard` → http://localhost:8501
 
 **GitHub repo:** https://github.com/jain-atishay/loblaw-bio-immune-analysis
-
-**Deploy online:** Sign in at [share.streamlit.io](https://share.streamlit.io), connect the repo above, and set the app path to `dashboard/app.py`. Update the README with your Streamlit URL once deployed.
 
 ## Key findings (for Yah)
 
